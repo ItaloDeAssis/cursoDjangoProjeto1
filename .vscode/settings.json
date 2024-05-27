@@ -19,7 +19,7 @@
       }
     ]
   },
-  "workbench.colorTheme": "Beautiful Dracula Normal",
+  "workbench.colorTheme": "Beautiful Dracula Normal - No Highlight",
   "editor.wordWrap": "on",
   "editor.fontSize": 18,
   "python.languageServer": "Pylance", // ms-python.vscode-pylance
